@@ -1,4 +1,4 @@
-** Contacts **
+**  Contacts **
 
 Jonathan Perez - jonathan.perez@bcstechnology.com.au
 
@@ -9,22 +9,24 @@ Jonathan Perez - jonathan.perez@bcstechnology.com.au
 ## Day 1 schedule
 
 *Morning Session*
+
 **Module 1:  Lecture – DevOps – People, Process, Culture**
-* Problem statement / What are we trying to solve. 
-* Case Studies – Toyota / Webjet / Volaris 
-* Tools 
-* Software deployment automation 
-* DataOps (Data DevOps) 
-* Infrastructure automation 
-* Process improvement automation 
-* Product improvement automation 
-* Big picture thinking / the end goal 
+
+*  Problem statement / What are we trying to solve. 
+*  Case Studies – Toyota / Webjet / Volaris 
+*  Tools 
+*  Software deployment automation 
+*  DataOps (Data DevOps) 
+*  Infrastructure automation 
+*  Process improvement automation 
+*  Product improvement automation 
+*  Big picture thinking / the end goal 
  
 *Afternoon Session*
 **Module 2:  Whiteboard design**
-* DKSH Case Study 
-* Call to action:  Design a proof of concept solution 
-* Call to action:  Present the solution 
+*  DKSH Case Study 
+*  Call to action:  Design a proof of concept solution 
+*  Call to action:  Present the solution 
 
 ---
 
@@ -34,30 +36,30 @@ Jonathan Perez - jonathan.perez@bcstechnology.com.au
 
 
 **Module 3:  Web Application Hackathon**
-* Environment setup 
-* Configure git repository  
-* Configure Web application  
-* Configure Git and Jenkins for Continuous Integration 
-* Delivery and deployment 
-* Code and implement Unit test 
-* Configure Jenkins for Automated testing 
-* Integrate Katalon testing 
-* Integrate Static code analysis tools 
-* Code smoke tests 
-* Integrate Smoke tests 
-* DevOps Operations Monitoring 
-* Wrap-up: Vision for the future / data drive DevOps / What the future might look like.
+*  Environment setup 
+*  Configure git repository  
+*  Configure Web application  
+*  Configure Git and Jenkins for Continuous Integration 
+*  Delivery and deployment 
+*  Code and implement Unit test 
+*  Configure Jenkins for Automated testing 
+*  Integrate Katalon testing 
+*  Integrate Static code analysis tools 
+*  Code smoke tests 
+*  Integrate Smoke tests 
+*  DevOps Operations Monitoring 
+*  Wrap-up: Vision for the future / data drive DevOps / What the future might look like.
 
 ---
 
 **Module 4: Mobile Application Hackathon**
-* Environment setup 
-* Configure git repository  
-* Configure Web application  
-* Configure Git and Jenkins for Continuous Integration 
-* Delivery and deployment to HockeyApp 
-* Integrate Appium 
-* Integrate Katalon testing 
-* DevOps Operations Monitoring 
-* Wrap-up: Vision for the future / What it might look like. 
+*  Environment setup 
+*  Configure git repository  
+*  Configure Web application  
+*  Configure Git and Jenkins for Continuous Integration 
+*  Delivery and deployment to HockeyApp 
+*  Integrate Appium 
+*  Integrate Katalon testing 
+*  DevOps Operations Monitoring 
+*  Wrap-up: Vision for the future / What it might look like. 
 
