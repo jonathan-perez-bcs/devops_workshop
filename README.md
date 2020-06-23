@@ -23,7 +23,9 @@ Jonathan Perez - jonathan.perez@bcstechnology.com.au
 *  Big picture thinking / the end goal 
  
 *Afternoon Session*
+
 **Module 2:  Whiteboard design**
+
 *  DKSH Case Study 
 *  Call to action:  Design a proof of concept solution 
 *  Call to action:  Present the solution 
@@ -36,6 +38,7 @@ Jonathan Perez - jonathan.perez@bcstechnology.com.au
 
 
 **Module 3:  Web Application Hackathon**
+
 *  Environment setup 
 *  Configure git repository  
 *  Configure Web application  
@@ -53,6 +56,7 @@ Jonathan Perez - jonathan.perez@bcstechnology.com.au
 ---
 
 **Module 4: Mobile Application Hackathon**
+
 *  Environment setup 
 *  Configure git repository  
 *  Configure Web application  
