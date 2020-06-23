@@ -79,6 +79,8 @@ NOTICE - This repository is public.  Please avoid PII issues.  email addresses l
 
 **references:**
 
+What is DevOps
+https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops
 Devops checklist
 https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops
 Basice Web application architecture
