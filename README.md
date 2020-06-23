@@ -1,6 +1,12 @@
+
+
 **  Contacts **
 
 Jonathan Perez - jonathan.perez@bcstechnology.com.au
+Ian Lim - ian.lim@bcstechnology.com.au
+Ashish Agrawal - ashish.agrawal@bcstechnology.com.au
+
+NOTICE - This repository is public.  Please avoid PII issues.  email addresses listed here may get harvested by spambots.
 
 *You can do a git pull on the repository to get updated information if we update the files during the training.*
 
