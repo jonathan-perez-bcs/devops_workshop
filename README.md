@@ -81,3 +81,5 @@ NOTICE - This repository is public.  Please avoid PII issues.  email addresses l
 
 Devops checklist
 https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops
+Basice Web application architecture
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/basic-web-app
