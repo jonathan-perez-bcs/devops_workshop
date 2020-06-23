@@ -75,3 +75,9 @@ NOTICE - This repository is public.  Please avoid PII issues.  email addresses l
 *  DevOps Operations Monitoring 
 *  Wrap-up: Vision for the future / What it might look like. 
 
+
+
+**references:**
+
+Devops checklist
+https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops
