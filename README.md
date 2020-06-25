@@ -76,6 +76,8 @@ NOTICE - This repository is public.  Please avoid PII issues.  email addresses l
 *  Wrap-up: Vision for the future / What it might look like. 
 
 
+**Mobile Devops DemoCode Base for Fork during Demo**
+https://github.com/ashagraw91/MobileAppDemo
 
 **references:**
 
@@ -85,3 +87,7 @@ Devops checklist
 https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops
 Basic Web application architecture
 https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/basic-web-app
+Azure Devops API
+https://docs.microsoft.com/en-us/azure/devops/extend/reference/client/rest-clients?view=azure-devops
+Azure DevOps Learning Material
+https://azure.microsoft.com/en-in/overview/devops-tutorial/
